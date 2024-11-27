@@ -70,7 +70,7 @@ const List<Map<String, dynamic>> quiz = [
     "alternativa_correta": 0,
   },
   {
-    "pergunta": "Qual é o time de futebol mais vitorioso da Copa do Mundo?",
+    "pergunta": "Qual é a seleção de futebol mais vitorioso da Copa do Mundo?",
     "respostas": [
       "Argentina",
       "Alemanha",
